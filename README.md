@@ -3,7 +3,7 @@
 </p>
 
 <h4 align="center">
-  Database upload
+  Database and upload
 </h4>
 
 <p align="center">
